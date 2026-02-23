@@ -8,3 +8,4 @@ We also provide the data for different network types discussed in the paper in t
 - scale-free
 - small-world
 - star, circle, tree, square lattice
+- Real-world example: ANU Residence network
